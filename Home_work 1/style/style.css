@@ -1,0 +1,19 @@
+h1, h2, h3 {
+    color: blue;
+    text-align: left;
+    text-indent: 5%;
+}
+
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+.text_type{
+    color: blue;
+    font-style: italic;
+}
+p{
+    text-indent: 30px;
+    line-height: 30px;
+}
